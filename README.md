@@ -6,3 +6,5 @@ I'm just now learning about APIs, so I'm building a weather app that utilizes th
 Using bootstrap for CSS, and AccuWeather API for json
 
 https://thenounproject.com/adamwhitcroft/ for weather icons
+
+Added class constructor in forecast.js 3/31/21
