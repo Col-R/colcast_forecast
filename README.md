@@ -1,7 +1,7 @@
 # colcast_forecast
-A weather app. Initial commit 3/17/21
+IMPORTANT: I did this for a class. Not my own original code, I just wanted to use this as practice in Github
 
-I'm just now learning about APIs, so I'm building a weather app that utilizes that for some practice
+A weather app. Initial commit 3/17/21
 
 Using bootstrap for CSS, and AccuWeather API for json
 
